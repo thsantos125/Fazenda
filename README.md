@@ -72,7 +72,7 @@ Este projeto tem como objetivo a criação de um Modelo Entidade-Relacionamento 
 ## Integrantes do Grupo
 
 - Arthur Luiz Rosado Alves  -> RM562061
-
+- Thiago Henrique Pereira de Almeida Santos -> RM 563327
 
 
 
